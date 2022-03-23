@@ -1,0 +1,38 @@
+.flex-box-container-2  {
+    display: flex;
+    border: 1px solid rgb(240, 79, 79);
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    
+}
+
+.container-2 {
+    border: 1px solid rgb(241, 77, 77);
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 20%;
+   
+    
+}
+
+.flex-box-container-2 img{
+    margin: 10px;
+    box-shadow: 0px 10px 50px rgba(236, 28, 28, 0.7);
+}
+
+.flex-box-container-1 div{
+    padding: 10px;
+    border: 1px solid rgb(248, 77, 77);
+}
+body{
+    background-image: url(../static/images/billy.jpg)
+    
+}
+h2{
+    color: white;
+}
